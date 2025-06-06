@@ -1,0 +1,22 @@
+# === Core data analysis and machine learning ===
+pandas
+numpy
+scikit-learn
+
+# === Visualization ===
+matplotlib
+seaborn
+
+# === Dataset loaders ===
+# UCI ML Repo: used to fetch datasets (optional, not needed if data is local)
+ucimlrepo
+# Palmer Penguins dataset
+palmerpenguins
+
+# === Decision tree visualization ===
+pydotplus
+graphviz
+IPython
+
+# === Jupyter notebook support ===
+notebook

@@ -1,0 +1,19 @@
+# Text editor
+.vscode/
+
+# Byte-compiled / Jupyter checkpoints
+__pycache__/
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python environments
+venv/
+.env
+
+# Data files (if large or sensitive)
+*.zip
+*.tar.gz
+*.rar
