@@ -2,7 +2,7 @@
 
 This repository contains code and experiments for building and evaluating decision tree classifiers on multiple real-world datasets using **scikit-learn**.
 
-## 📁 Datasets Used
+## Datasets Used
 
 1. **UCI Heart Disease Dataset** – Binary classification.  
 2. **Palmer Penguins Dataset** – Multi-class classification.  
@@ -12,7 +12,7 @@ Each dataset is analyzed separately using the same pipeline described in the pro
 
 ---
 
-## 📦 Requirements
+## Requirements
 
 Make sure you have **Python 3.10+** installed. Then, install all required packages:
 
@@ -31,7 +31,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 The project is implemented in **Jupyter Notebook (.ipynb)** format.
 
@@ -51,7 +51,7 @@ To run the notebooks:
 
 ---
 
-## 🧪 Tasks Covered
+## Tasks Covered
 
 Each notebook includes the following sections:
 
@@ -80,7 +80,7 @@ Each notebook includes the following sections:
 
 ---
 
-## 📄 Project Requirements
+## Project Requirements
 
 This project follows all instructions as outlined in the **CS14003 Artificial Intelligence Project 2**:
 
@@ -95,7 +95,7 @@ This project follows all instructions as outlined in the **CS14003 Artificial In
 
 ---
 
-## 👨‍👩‍👦 Group Information
+## Group Information
 
 - [Student Name 1] – [Student ID]  
 - [Student Name 2] – [Student ID]  
