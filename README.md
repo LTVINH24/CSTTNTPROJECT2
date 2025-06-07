@@ -21,8 +21,15 @@ It is recommended to use a **virtual environment** to isolate project dependenci
 ### Step 1: Create and activate virtual environment
 
 ```bash
-python -m venv venv
-venv\Scripts\activate      # On Linux/macOS: source venv/bin/activate
+# Create virtual environment
+python -m venv .venv
+
+# Activate virtual environment:
+# On Windows:
+.venv\Scripts\activate
+
+# On Linux/macOS:
+source .venv/bin/activate
 ```
 
 ### Step 2: Install required packages
@@ -49,9 +56,9 @@ The project is implemented in **Jupyter Notebook (.ipynb)** format.
 To run the notebooks:
 
 1. Launch Jupyter:  
-    ```bash
-    jupyter notebook
-    ```
+   ```bash
+   jupyter notebook
+   ```
 
 2. Open one of the notebooks:
    - `HeartDisease_DecisionTree.ipynb`
