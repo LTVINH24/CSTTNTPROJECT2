@@ -14,7 +14,18 @@ Each dataset is analyzed separately using the same pipeline described in the pro
 
 ## Requirements
 
-Make sure you have **Python 3.10+** installed. Then, install all required packages:
+Make sure you have **Python 3.10+** installed.
+
+It is recommended to use a **virtual environment** to isolate project dependencies.
+
+### Step 1: Create and activate virtual environment
+
+```bash
+python -m venv venv
+venv\Scripts\activate      # On Linux/macOS: source venv/bin/activate
+```
+
+### Step 2: Install required packages
 
 ```bash
 pip install -r requirements.txt
