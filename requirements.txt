@@ -5,6 +5,7 @@ scikit-learn
 
 # === Visualization ===
 matplotlib
+seaborn
 
 # === Dataset loaders ===
 # UCI ML Repo: used to fetch datasets (optional, not needed if data is local)
