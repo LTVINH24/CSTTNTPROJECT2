@@ -17,3 +17,6 @@ venv/
 *.zip
 *.tar.gz
 *.rar
+
+# virtual environment
+.venv/
